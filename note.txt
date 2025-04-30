@@ -1,0 +1,5 @@
+Database : application -> config -> database.php
+Baseurl : application -> config -> config.php
+
+Atur Email SMTP
+1. application -> controllers -> Auth.php (Line 92 dst)
